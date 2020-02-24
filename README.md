@@ -1,14 +1,18 @@
 # MLB Talent Predictions
 (as of 2018)
 
-![Pete Alonso, New York Mets 1B](https://media1.giphy.com/media/U2LWhOI2rZhXD6mTKu/giphy.gif?cid=790b7611b6162836df966381170fcf32736916b09bdf4cc4&rid=giphy.gif)
+![Pete Alonso, New York Mets 1B](<iframe src="https://giphy.com/embed/U2LWhOI2rZhXD6mTKu" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mets-new-york-mets-ny-pete-alonso-U2LWhOI2rZhXD6mTKu">via GIPHY</a></p>)
 
 ## Contributors: 
 
 [Michael Pallante](https://github.com/michaelpallante)
+<br>
 Justin Benson
+<br>
 Alexander Booth
+<br>
 Noah Lieberman
+<br>
 Thomas Popeck Spiller
 
 ## Project Goals:
