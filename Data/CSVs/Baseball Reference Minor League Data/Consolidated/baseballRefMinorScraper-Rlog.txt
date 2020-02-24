@@ -1,0 +1,1500 @@
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1977
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1977
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1978
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1978
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1979
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1979
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1980
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1980
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1981
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1981
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1982
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1982
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1983
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1983
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1984
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1984
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1985
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1985
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1986
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1986
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1987
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1987
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1988
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1988
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1989
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1989
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1990
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1990
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1991
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1991
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1992
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1992
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1993
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1993
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1994
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1994
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1995
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1995
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1996
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1996
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1997
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1997
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1998
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=1999
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=2000
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=2001
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=2002
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=2003
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=2004
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=2005
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=2006
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=2007
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=2008
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=2009
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=2010
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=2011
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=2012
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=2013
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=2014
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=2015
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=2016
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ARI&year=2017
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=1977
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=1978
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=1979
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=1980
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=1981
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=1982
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=1983
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=1984
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=1985
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=1986
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=1987
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=1988
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=1989
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=1990
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=1991
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=1992
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=1993
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=1994
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=1995
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=1996
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=1997
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=1998
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=1999
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=2000
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=2001
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=2002
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=2003
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=2004
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=2005
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=2006
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=2007
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=2008
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=2009
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=2010
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=2011
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=2012
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=2013
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=2014
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=2015
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=2016
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ATL&year=2017
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=1977
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=1978
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=1979
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=1980
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=1981
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=1982
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=1983
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=1984
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=1985
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=1986
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=1987
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=1988
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=1989
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=1990
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=1991
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=1992
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=1993
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=1994
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=1995
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=1996
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=1997
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=1998
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=1999
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=2000
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=2001
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=2002
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=2003
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=2004
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=2005
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=2006
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=2007
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=2008
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=2009
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=2010
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=2011
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=2012
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=2013
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=2014
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=2015
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=2016
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BAL&year=2017
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=1977
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=1978
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=1979
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=1980
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=1981
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=1982
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=1983
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=1984
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=1985
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=1986
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=1987
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=1988
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=1989
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=1990
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=1991
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=1992
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=1993
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=1994
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=1995
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=1996
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=1997
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=1998
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=1999
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=2000
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=2001
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=2002
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=2003
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=2004
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=2005
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=2006
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=2007
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=2008
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=2009
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=2010
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=2011
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=2012
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=2013
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=2014
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=2015
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=2016
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=BOS&year=2017
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1977
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1978
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1979
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1980
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1981
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1982
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1983
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1984
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1985
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1986
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1987
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1988
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1989
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1990
+Here's the original error message:
+<simpleError in open.connection(x, "rb"): HTTP error 502.>
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1990
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1991
+Here's the original error message:
+<simpleError in open.connection(x, "rb"): HTTP error 502.>
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1991
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1992
+Here's the original error message:
+<simpleError in open.connection(x, "rb"): HTTP error 502.>
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1992
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1993
+Here's the original error message:
+<simpleError in open.connection(x, "rb"): HTTP error 502.>
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1993
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1994
+Here's the original error message:
+<simpleError in open.connection(x, "rb"): HTTP error 502.>
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1994
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1995
+Here's the original error message:
+<simpleError in open.connection(x, "rb"): HTTP error 502.>
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1995
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1996
+Here's the original error message:
+<simpleError in open.connection(x, "rb"): HTTP error 502.>
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1996
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1997
+Here's the original error message:
+<simpleError in open.connection(x, "rb"): HTTP error 502.>
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1997
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1998
+Here's the original error message:
+<simpleError in open.connection(x, "rb"): HTTP error 502.>
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1998
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1999
+Here's the original error message:
+<simpleError in open.connection(x, "rb"): HTTP error 502.>
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1999
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=2000
+Here's the original error message:
+<simpleError in open.connection(x, "rb"): HTTP error 502.>
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=2000
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=2001
+Here's the original error message:
+<simpleError in open.connection(x, "rb"): HTTP error 502.>
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=2001
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=2002
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=2003
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=2004
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=2005
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=2006
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=2007
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=2008
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=2009
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=2010
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=2011
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=2012
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=2013
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=2014
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=2015
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=2016
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=2017
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=1977
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=1978
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=1979
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=1980
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=1981
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=1982
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=1983
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=1984
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=1985
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=1986
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=1987
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=1988
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=1989
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=1990
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=1991
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=1992
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=1993
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=1994
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=1995
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=1996
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=1997
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=1998
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=1999
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=2000
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=2001
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=2002
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=2003
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=2004
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=2005
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=2006
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=2007
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=2008
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=2009
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=2010
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=2011
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=2012
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=2013
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=2014
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=2015
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=2016
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHW&year=2017
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=1977
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=1978
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=1979
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=1980
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=1981
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=1982
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=1983
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=1984
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=1985
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=1986
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=1987
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=1988
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=1989
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=1990
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=1991
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=1992
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=1993
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=1994
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=1995
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=1996
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=1997
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=1998
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=1999
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=2000
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=2001
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=2002
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=2003
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=2004
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=2005
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=2006
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=2007
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=2008
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=2009
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=2010
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=2011
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=2012
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=2013
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=2014
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=2015
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=2016
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CIN&year=2017
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=1977
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=1978
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=1979
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=1980
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=1981
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=1982
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=1983
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=1984
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=1985
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=1986
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=1987
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=1988
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=1989
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=1990
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=1991
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=1992
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=1993
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=1994
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=1995
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=1996
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=1997
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=1998
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=1999
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=2000
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=2001
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=2002
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=2003
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=2004
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=2005
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=2006
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=2007
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=2008
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=2009
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=2010
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=2011
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=2012
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=2013
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=2014
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=2015
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=2016
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CLE&year=2017
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1977
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1977
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1978
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1978
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1979
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1979
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1980
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1980
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1981
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1981
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1982
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1982
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1983
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1983
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1984
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1984
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1985
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1985
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1986
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1986
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1987
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1987
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1988
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1988
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1989
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1989
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1990
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1990
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1991
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1991
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1992
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1992
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1993
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1994
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1995
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1996
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1997
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1998
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=1999
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=2000
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=2001
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=2002
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=2003
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=2004
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=2005
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=2006
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=2007
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=2008
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=2009
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=2010
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=2011
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=2012
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=2013
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=2014
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=2015
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=2016
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=COL&year=2017
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=1977
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=1978
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=1979
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=1980
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=1981
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=1982
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=1983
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=1984
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=1985
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=1986
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=1987
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=1988
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=1989
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=1990
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=1991
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=1992
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=1993
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=1994
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=1995
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=1996
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=1997
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=1998
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=1999
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=2000
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=2001
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=2002
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=2003
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=2004
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=2005
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=2006
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=2007
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=2008
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=2009
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=2010
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=2011
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=2012
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=2013
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=2014
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=2015
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=2016
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=DET&year=2017
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=1977
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=1978
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=1979
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=1980
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=1981
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=1982
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=1983
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=1984
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=1985
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=1986
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=1987
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=1988
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=1989
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=1990
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=1991
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=1992
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=1993
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=1994
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=1995
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=1996
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=1997
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=1998
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=1999
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=2000
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=2001
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=2002
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=2003
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=2004
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=2005
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=2006
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=2007
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=2008
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=2009
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=2010
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=2011
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=2012
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=2013
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=2014
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=2015
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=2016
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=HOU&year=2017
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=1977
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=1978
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=1979
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=1980
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=1981
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=1982
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=1983
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=1984
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=1985
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=1986
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=1987
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=1988
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=1989
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=1990
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=1991
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=1992
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=1993
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=1994
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=1995
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=1996
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=1997
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=1998
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=1999
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=2000
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=2001
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=2002
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=2003
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=2004
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=2005
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=2006
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=2007
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=2008
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=2009
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=2010
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=2011
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=2012
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=2013
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=2014
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=2015
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=2016
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=KCR&year=2017
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=1977
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=1978
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=1979
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=1980
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=1981
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=1982
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=1983
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=1984
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=1985
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=1986
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=1987
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=1988
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=1989
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=1990
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=1991
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=1992
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=1993
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=1994
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=1995
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=1996
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=1997
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=1998
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=1999
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=2000
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=2001
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=2002
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=2003
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=2004
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=2005
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=2006
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=2007
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=2008
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=2009
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=2010
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=2011
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=2012
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=2013
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=2014
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=2015
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=2016
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=ANA&year=2017
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=1977
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=1978
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=1979
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=1980
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=1981
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=1982
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=1983
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=1984
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=1985
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=1986
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=1987
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=1988
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=1989
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=1990
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=1991
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=1992
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=1993
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=1994
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=1995
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=1996
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=1997
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=1998
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=1999
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=2000
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=2001
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=2002
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=2003
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=2004
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=2005
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=2006
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=2007
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=2008
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=2009
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=2010
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=2011
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=2012
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=2013
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=2014
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=2015
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=2016
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=LAD&year=2017
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1977
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1977
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1978
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1978
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1979
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1979
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1980
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1980
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1981
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1981
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1982
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1982
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1983
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1983
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1984
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1984
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1985
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1985
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1986
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1986
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1987
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1987
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1988
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1988
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1989
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1989
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1990
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1990
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1991
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1991
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1992
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1992
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1993
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1994
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1995
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1996
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1997
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1998
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=1999
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=2000
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=2001
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=2002
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=2003
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=2004
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=2005
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=2006
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=2007
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=2008
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=2009
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=2010
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=2011
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=2012
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=2013
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=2014
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=2015
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=2016
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=FLA&year=2017
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=1977
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=1978
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=1979
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=1980
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=1981
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=1982
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=1983
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=1984
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=1985
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=1986
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=1987
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=1988
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=1989
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=1990
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=1991
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=1992
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=1993
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=1994
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=1995
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=1996
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=1997
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=1998
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=1999
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=2000
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=2001
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=2002
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=2003
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=2004
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=2005
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=2006
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=2007
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=2008
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=2009
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=2010
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=2011
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=2012
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=2013
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=2014
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=2015
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=2016
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIL&year=2017
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=1977
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=1978
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=1979
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=1980
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=1981
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=1982
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=1983
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=1984
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=1985
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=1986
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=1987
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=1988
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=1989
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=1990
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=1991
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=1992
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=1993
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=1994
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=1995
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=1996
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=1997
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=1998
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=1999
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=2000
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=2001
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=2002
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=2003
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=2004
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=2005
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=2006
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=2007
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=2008
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=2009
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=2010
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=2011
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=2012
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=2013
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=2014
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=2015
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=2016
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=MIN&year=2017
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=1977
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=1978
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=1979
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=1980
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=1981
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=1982
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=1983
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=1984
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=1985
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=1986
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=1987
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=1988
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=1989
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=1990
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=1991
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=1992
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=1993
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=1994
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=1995
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=1996
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=1997
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=1998
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=1999
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=2000
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=2001
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=2002
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=2003
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=2004
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=2005
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=2006
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=2007
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=2008
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=2009
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=2010
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=2011
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=2012
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=2013
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=2014
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=2015
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=2016
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYM&year=2017
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=1977
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=1978
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=1979
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=1980
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=1981
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=1982
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=1983
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=1984
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=1985
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=1986
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=1987
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=1988
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=1989
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=1990
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=1991
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=1992
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=1993
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=1994
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=1995
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=1996
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=1997
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=1998
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=1999
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=2000
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=2001
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=2002
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=2003
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=2004
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=2005
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=2006
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=2007
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=2008
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=2009
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=2010
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=2011
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=2012
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=2013
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=2014
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=2015
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=2016
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=NYY&year=2017
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=1977
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=1978
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=1979
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=1980
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=1981
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=1982
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=1983
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=1984
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=1985
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=1986
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=1987
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=1988
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=1989
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=1990
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=1991
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=1992
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=1993
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=1994
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=1995
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=1996
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=1997
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=1998
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=1999
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=2000
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=2001
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=2002
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=2003
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=2004
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=2005
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=2006
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=2007
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=2008
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=2009
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=2010
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=2011
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=2012
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=2013
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=2014
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=2015
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=2016
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=OAK&year=2017
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=1977
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=1978
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=1979
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=1980
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=1981
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=1982
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=1983
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=1984
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=1985
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=1986
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=1987
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=1988
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=1989
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=1990
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=1991
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=1992
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=1993
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=1994
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=1995
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=1996
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=1997
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=1998
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=1999
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=2000
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=2001
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=2002
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=2003
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=2004
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=2005
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=2006
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=2007
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=2008
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=2009
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=2010
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=2011
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=2012
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=2013
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=2014
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=2015
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=2016
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PHI&year=2017
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=1977
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=1978
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=1979
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=1980
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=1981
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=1982
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=1983
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=1984
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=1985
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=1986
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=1987
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=1988
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=1989
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=1990
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=1991
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=1992
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=1993
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=1994
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=1995
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=1996
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=1997
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=1998
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=1999
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=2000
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=2001
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=2002
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=2003
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=2004
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=2005
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=2006
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=2007
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=2008
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=2009
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=2010
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=2011
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=2012
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=2013
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=2014
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=2015
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=2016
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=PIT&year=2017
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=1977
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=1978
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=1979
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=1980
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=1981
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=1982
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=1983
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=1984
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=1985
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=1986
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=1987
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=1988
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=1989
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=1990
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=1991
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=1992
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=1993
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=1994
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=1995
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=1996
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=1997
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=1998
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=1999
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=2000
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=2001
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=2002
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=2003
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=2004
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=2005
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=2006
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=2007
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=2008
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=2009
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=2010
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=2011
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=2012
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=2013
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=2014
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=2015
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=2016
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SDP&year=2017
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=1977
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=1978
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=1979
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=1980
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=1981
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=1982
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=1983
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=1984
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=1985
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=1986
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=1987
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=1988
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=1989
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=1990
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=1991
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=1992
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=1993
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=1994
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=1995
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=1996
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=1997
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=1998
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=1999
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=2000
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=2001
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=2002
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=2003
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=2004
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=2005
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=2006
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=2007
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=2008
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=2009
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=2010
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=2011
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=2012
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=2013
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=2014
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=2015
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=2016
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SFG&year=2017
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=1977
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=1978
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=1979
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=1980
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=1981
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=1982
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=1983
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=1984
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=1985
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=1986
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=1987
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=1988
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=1989
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=1990
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=1991
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=1992
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=1993
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=1994
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=1995
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=1996
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=1997
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=1998
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=1999
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=2000
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=2001
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=2002
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=2003
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=2004
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=2005
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=2006
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=2007
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=2008
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=2009
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=2010
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=2011
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=2012
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=2013
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=2014
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=2015
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=2016
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=SEA&year=2017
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=1977
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=1978
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=1979
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=1980
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=1981
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=1982
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=1983
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=1984
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=1985
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=1986
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=1987
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=1988
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=1989
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=1990
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=1991
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=1992
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=1993
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=1994
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=1995
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=1996
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=1997
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=1998
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=1999
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=2000
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=2001
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=2002
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=2003
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=2004
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=2005
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=2006
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=2007
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=2008
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=2009
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=2010
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=2011
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=2012
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=2013
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=2014
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=2015
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=2016
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=STL&year=2017
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1977
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1977
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1978
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1978
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1979
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1979
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1980
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1980
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1981
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1981
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1982
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1982
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1983
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1983
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1984
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1984
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1985
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1985
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1986
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1986
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1987
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1987
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1988
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1988
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1989
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1989
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1990
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1990
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1991
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1991
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1992
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1992
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1993
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1993
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1994
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1994
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1995
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1995
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1996
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1996
+URL failed to process: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1997
+Here's the original error message:
+<simpleError in UseMethod("html_table"): no applicable method for 'html_table' applied to an object of class "xml_missing">
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1997
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1998
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=1999
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=2000
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=2001
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=2002
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=2003
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=2004
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=2005
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=2006
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=2007
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=2008
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=2009
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=2010
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=2011
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=2012
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=2013
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=2014
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=2015
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=2016
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TBD&year=2017
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=1977
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=1978
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=1979
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=1980
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=1981
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=1982
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=1983
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=1984
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=1985
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=1986
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=1987
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=1988
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=1989
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=1990
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=1991
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=1992
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=1993
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=1994
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=1995
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=1996
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=1997
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=1998
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=1999
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=2000
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=2001
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=2002
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=2003
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=2004
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=2005
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=2006
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=2007
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=2008
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=2009
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=2010
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=2011
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=2012
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=2013
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=2014
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=2015
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=2016
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TEX&year=2017
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=1977
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=1978
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=1979
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=1980
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=1981
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=1982
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=1983
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=1984
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=1985
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=1986
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=1987
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=1988
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=1989
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=1990
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=1991
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=1992
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=1993
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=1994
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=1995
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=1996
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=1997
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=1998
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=1999
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=2000
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=2001
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=2002
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=2003
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=2004
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=2005
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=2006
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=2007
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=2008
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=2009
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=2010
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=2011
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=2012
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=2013
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=2014
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=2015
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=2016
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=TOR&year=2017
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=1977
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=1978
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=1979
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=1980
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=1981
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=1982
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=1983
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=1984
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=1985
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=1986
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=1987
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=1988
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=1989
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=1990
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=1991
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=1992
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=1993
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=1994
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=1995
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=1996
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=1997
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=1998
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=1999
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=2000
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=2001
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=2002
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=2003
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=2004
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=2005
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=2006
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=2007
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=2008
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=2009
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=2010
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=2011
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=2012
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=2013
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=2014
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=2015
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=2016
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=WSN&year=2017
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1990
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1991
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1992
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1993
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1994
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1995
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1996
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1997
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1998
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=1999
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=2000
+Processed URL: https://www.baseball-reference.com/minors/affiliate.cgi?id=CHC&year=2001
