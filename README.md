@@ -1,9 +1,9 @@
 # MLB Talent Predictions
 (as of 2018)
 
-![Pete Alonso, New York Mets First Baseman](https://media.giphy.com/media/YPK6jhwWrl67qxl9b7/giphy.gif)
+![Peter Alonso, New York Mets First Baseman](https://media.giphy.com/media/YPK6jhwWrl67qxl9b7/giphy.gif)
 <br>
-Pete Alonso, New York Mets First Baseman
+Peter Alonso, New York Mets First Baseman
 
 ## Contributors: 
 
