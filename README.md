@@ -27,26 +27,38 @@ Thomas Popeck Spiller
 
 ## Summary of Files:
 
-**Final Report:**
-<br>
-[Final Report]()
-
-**Presentation:**
-<br>
-[Presentation]()
-
 **Project Goals:**
 <br>
-[Project Goals]()
+[Project Goals](https://github.com/michaelpallante/mlb_talent_predictions/blob/master/Reports/Project%20Goals/MLB_Talent_Prediction_Project_Goals.pdf)
+
+**Executive Summary:**
+<br>
+[Executive Summary](https://github.com/michaelpallante/mlb_talent_predictions/blob/master/Reports/Executive%20Summary/MLB_Talent_Prediction_Executive_Summary.pdf)
 
 **Initial Findings:**
 <br>
-[Initial Findings]()
+[Initial Findings](https://github.com/michaelpallante/mlb_talent_predictions/tree/master/Reports/Initial%20Findings)
+
+**Final Report:**
+<br>
+[Final Report](https://github.com/michaelpallante/mlb_talent_predictions/blob/master/Reports/Final%20Report/MLB_Talent_Prediction_Final_Report.pdf)
+
+**Appendix:**
+<br>
+[Appendix](https://github.com/michaelpallante/mlb_talent_predictions/blob/master/Reports/Appendix/MLB_Talent_Prediction_Appendix.pdf)
+
+**Presentation:**
+<br>
+[CEO Slide Deck](https://github.com/michaelpallante/mlb_talent_predictions/blob/master/Presentation/CEO%20Slide%20Deck/MLB_Talent_Prediction_CEO_Slide_Deck.pdf)
+<br>
+[Presentation Slide Deck](https://github.com/michaelpallante/mlb_talent_predictions/tree/master/Presentation/Presentation%20Slide%20Deck)
 
 **Code:**
 <br>
-[Code]()
+[Python](https://github.com/michaelpallante/mlb_talent_predictions/tree/master/Code/Python)
+<br>
+[R](https://github.com/michaelpallante/mlb_talent_predictions/tree/master/Code/R)
 
 **Data:**
 <br>
-[Data]()
+[Data](https://github.com/michaelpallante/mlb_talent_predictions/tree/master/Data/CSVs)
