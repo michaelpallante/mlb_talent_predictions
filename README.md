@@ -1,7 +1,7 @@
 # MLB Talent Predictions
 (as of 2018)
 
-![Pete Alonso, New York Mets 1B](<iframe src="https://giphy.com/embed/U2LWhOI2rZhXD6mTKu" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mets-new-york-mets-ny-pete-alonso-U2LWhOI2rZhXD6mTKu">via GIPHY</a></p>)
+![Pete Alonso, New York Mets 1B](https://media.giphy.com/media/U2LWhOI2rZhXD6mTKu/giphy.gif)
 
 ## Contributors: 
 
