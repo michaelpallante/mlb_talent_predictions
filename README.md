@@ -19,11 +19,19 @@ Thomas Popeck Spiller
 
 ## Project Goals:
 
-
+- Develop a predictive model that projects future WAR value of minor league talent to determine their overall value to major league organizations.
+- Develop a predictive model that forecasts the likelihood of minor league talent reaching the major league level.
+- Outline recommendations for developing the best possible on-field product for the New York Mets, while still maintaining a healthy farm system with strong minor league depth.
 
 ## Summary of Data:
 
-
+Our team developed our models based on baseball data from the following data sources:
+- Fangraphs
+- Baseball Reference
+- The Baseball Cube
+- Lahman's MLB Database
+- The Baseball Prospectus
+- Sentiment Analysis on Baseball Scouting Reports
 
 ## Summary of Files:
 
